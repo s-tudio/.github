@@ -1,5 +1,5 @@
 # s
-a fake corporation about s <br>
+stuff
 
 # who?
-- s - main guy
+- [s](https://github.com/RealS5) - s
